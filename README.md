@@ -305,7 +305,7 @@ const cardForm = GlobalPayments.ui.form({
     }
   },
   styles: {
-    // Your styles
+   fieldStyles
   }
 });
 ```
